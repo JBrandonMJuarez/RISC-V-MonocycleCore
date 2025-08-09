@@ -1,2 +1,2 @@
-# RISC-V-MonocycleCore
-RISC-V Monocycle Core
+# RISC-V-SingleCycleCore
+RISC-V Single-Cycle Core
